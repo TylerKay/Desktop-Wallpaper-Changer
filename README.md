@@ -15,7 +15,7 @@
      - client-secret=<CLIENT-SECRET>
 3. In the config.ini file, edit your reddit application_name you created in step 1. After that, also edit the wallpaperSettings to your preferences (width, height, max_number_of_pictures)
 
-4. Run the python program!
+4. Run run.py or run.exe!
 
 #### Tyler Kay
 

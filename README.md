@@ -1,6 +1,6 @@
 # Wallpaper Changer
 
-## This application takes images from the latest comments from a reddit bot ("ze-robot") and changes the desktop wallpaper on Windows.
+### This application takes images from the latest comments from a reddit bot ("ze-robot") and changes the desktop wallpaper on Windows.
 
 ## Setup:
 
